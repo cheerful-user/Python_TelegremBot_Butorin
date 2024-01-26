@@ -1,5 +1,7 @@
-# Python_TelegremBot_Butorin
-Проект: Telegram-бот с функцией календаря
-Имя Фамилия — укажите свое имя и фамилию
-логин на GitHub — укажите имя пользователя (логин) на GitHub
-e-mail — укажите свой e-mail
+# Проект: Telegram-бот с функцией календаря
+
+My name is _Денис Буторин_
+
+my login on GitHub: **cheerful-user**
+
+My e-mail: **denissimo00@mail.ru**
