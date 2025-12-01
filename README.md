@@ -1,7 +1,4 @@
-# Проект: Telegram-бот с функцией календаря
+# Проект: Telegram-бот с функцией календаря, часть 1, 
 
-My name is _Денис Буторин_
 
-my login on GitHub: **cheerful-user**
-
-My e-mail: **denissimo00@mail.ru**
+Задание №3. Добавьте в приложение класс calendar
