@@ -1,4 +1,4 @@
-# Проект: Telegram-бот с функцией календаря
+# Проект: Telegram-bot-part1
 
 My name is _Денис Буторин_
 
